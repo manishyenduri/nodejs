@@ -1,0 +1,23 @@
+/* @media screen and (min-device-width: 769px) and (max-device-width: 1024px){ 
+    #imgSize{
+        width:90%
+    }
+    #textSize{
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-device-width: 1025px) and (max-device-width: 1200px){ 
+    #imgSize{
+        width:90%
+    }
+}
+
+@media screen and (min-device-width: 1201px) { 
+    #imgSize{
+        width:90%
+    }
+} */
+#textSize{
+    font-size: 12px;
+}

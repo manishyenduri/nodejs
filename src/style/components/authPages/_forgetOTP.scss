@@ -1,0 +1,101 @@
+.login-layout{
+    width:100%;
+    font-family: 'Muli';
+    display: flex;
+    justify-content: center;
+    .login-sub-layout{
+        width:90%;
+        .login-titleRow{
+            margin-top: 2rem;
+            img{
+                width: 60px;
+            }
+            label{
+                color:rgba(41, 40, 40, 0.8);
+                font-weight: 645;
+                font-size: 1rem;
+            }
+            
+                .text{
+                    margin-left: 17%;
+                    width:400px;
+                    height:50px;
+                }       
+                .login-bannerImg{
+                    margin-left: 10%;
+                 img{
+                    top: 406px;
+                    left: 253px;
+                    width: 555px;
+                    height: 370px;
+                }
+                
+            }
+        }
+        
+        
+
+        .login-card{
+            width:100%;
+            border-radius: 5px;
+            background-color: #fff;
+            box-shadow: 0px 3px 6px #00000029;
+            display: flex;
+            justify-content: center;
+            .login-card-sub-layout{
+                width: 80%;
+                .loginRow1{
+                    margin-top:1.5rem;
+                    img{
+                        width:1.5rem;
+                    }
+                }
+                .login-form{
+                    label{
+                        color:rgba(41, 40, 40, 0.8);
+                        font-weight: 645;
+                        font-size: .8rem;
+                    }
+                    input{
+                        width: 100%;
+                        height: 2rem;
+                        outline: none;
+                        background-color: #F7FAFC;
+                        border-radius: 5px;
+                        border:none;
+                        font-size: .8rem;
+                        padding-left: 1rem;
+                    }
+                    .login-submit{
+                        border-radius: 50px;
+                        outline: none;
+                        background-color:#fff;
+                        font-size: .8rem;
+                        border:1px solid #377D22; 
+                        padding: .2rem 1rem;
+                        color:rgba(55, 125, 34,.8);
+                        font-weight: 630;
+                        float:right;
+                        &:hover{
+                            background-color: rgba(55, 125, 34,.8);
+                            color:#fff;
+                            transition: all .3s ease-in-out;
+                        }
+                    }
+
+                    .forgot-psswd{
+                     cursor: pointer;
+                    top: 852px;
+                    left: 1265px;
+                    width: 140px;
+                    height: 20px;
+                    opacity: 1;
+                 
+                    
+                }
+                }
+               
+            }
+        }
+    }
+}

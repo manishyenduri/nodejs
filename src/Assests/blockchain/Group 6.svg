@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="39" viewBox="0 0 39 39">
+  <g id="Group_6" data-name="Group 6" transform="translate(-1273 -245)">
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(1273 245)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="39" height="39" stroke="none"/>
+      <rect x="0.5" y="0.5" width="38" height="38" fill="none"/>
+    </g>
+    <path id="Icon_open-account-login" data-name="Icon open-account-login" d="M12.573,0V4.191H29.337V25.146H12.573v4.191H33.528V0Zm4.191,8.382v4.191H0v4.191H16.764v4.191l8.382-6.286Z" transform="translate(1275.861 249.292)" fill="#377d22"/>
+  </g>
+</svg>

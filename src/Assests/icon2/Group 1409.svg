@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104.321" height="73.639" viewBox="0 0 104.321 73.639">
+  <defs>
+    <filter id="Rectangle_3453" x="0" y="1.367" width="104.321" height="72.272" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3454" x="1.57" y="2.861" width="100.79" height="69.294" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1409" data-name="Group 1409" transform="translate(19704.16 10591)">
+    <g id="Ellipse_447" data-name="Ellipse 447" transform="translate(-19686 -10591)" fill="none" stroke="#377d22" stroke-width="4">
+      <circle cx="34" cy="34" r="34" stroke="none"/>
+      <circle cx="34" cy="34" r="32" fill="none"/>
+    </g>
+    <g id="Ellipse_448" data-name="Ellipse 448" transform="translate(-19673 -10578)" fill="none" stroke="#377d22" stroke-width="1">
+      <circle cx="21.5" cy="21.5" r="21.5" stroke="none"/>
+      <circle cx="21.5" cy="21.5" r="21" fill="none"/>
+    </g>
+    <g id="Ellipse_449" data-name="Ellipse 449" transform="translate(-19679 -10584)" fill="none" stroke="#377d22" stroke-width="0.2" stroke-dasharray="3">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="26.9" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -19704.16, -10591)" filter="url(#Rectangle_3453)">
+      <rect id="Rectangle_3453-2" data-name="Rectangle 3453" width="83" height="25" rx="2" transform="matrix(0.93, -0.37, 0.37, 0.93, 9, 38.46)" fill="#377d22"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -19704.16, -10591)" filter="url(#Rectangle_3454)">
+      <g id="Rectangle_3454-2" data-name="Rectangle 3454" transform="matrix(0.93, -0.37, 0.37, 0.93, 10.57, 38.83)" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="80" height="23" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="79" height="22" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <text id="VERIFIED" transform="matrix(0.927, -0.375, 0.375, 0.927, -19681.178, -10539.216)" fill="#fff" font-size="15" font-family="Gopher" font-weight="700"><tspan x="0" y="0">VERIFIED</tspan></text>
+  </g>
+</svg>

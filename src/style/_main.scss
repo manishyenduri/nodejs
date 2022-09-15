@@ -1,0 +1,14 @@
+// @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import "~fontsource-muli/index.css";
+
+@import './abstract/colors';
+@import './abstract/fonts';
+@import './abstract/mixin';
+@import './abstract/variables';
+
+@import './components/adminLayout';
+@import './components/layoutAnimationStyleSheet';
+@import './components/components';
+@import './components/registration/blockchainDoc/blockchainDoc';
+@import './components/registration/blockchainDoc/batchId';
+@import './components/authPages/login';

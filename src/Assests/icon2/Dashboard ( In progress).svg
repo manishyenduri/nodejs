@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="34" viewBox="0 0 29 34">
+  <g id="Dashboard_In_progress_" data-name="Dashboard ( In progress)" transform="translate(-15.227 -17.158)">
+    <g id="Rectangle_2297" data-name="Rectangle 2297" transform="translate(15.226 17.158)" fill="none" stroke="#f8d2a1" stroke-width="2">
+      <rect width="26" height="30" rx="5" stroke="none"/>
+      <rect x="1" y="1" width="24" height="28" rx="4" fill="none"/>
+    </g>
+    <g id="Rectangle_2298" data-name="Rectangle 2298" transform="translate(20.226 23.158)" fill="#f8d2a1" stroke="#f8d2a1" stroke-width="1">
+      <rect width="16" height="2" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="15" height="1" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2299" data-name="Rectangle 2299" transform="translate(20.226 28.158)" fill="#f8d2a1" stroke="#f8d2a1" stroke-width="1">
+      <rect width="16" height="2" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="15" height="1" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2300" data-name="Rectangle 2300" transform="translate(20.226 33.158)" fill="#f8d2a1" stroke="#f8d2a1" stroke-width="1">
+      <rect width="11" height="2" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="10" height="1" rx="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_43" data-name="Ellipse 43" transform="translate(28.226 35.158)" fill="#fdfff8" stroke="#fdfff8" stroke-width="1">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-history" data-name="Icon awesome-history" d="M10.878,5.449A5.439,5.439,0,0,0,2.026,1.2a.526.526,0,0,0-.04.781l.247.247a.527.527,0,0,0,.7.044,4.036,4.036,0,1,1-.258,6.1L3.787,7.266a.351.351,0,0,0-.248-.6H.351A.351.351,0,0,0,0,7.018v3.188a.351.351,0,0,0,.6.248L1.682,9.372a5.439,5.439,0,0,0,9.2-3.922ZM6.91,3.721,7.126,4a.526.526,0,0,1-.092.739l-.893.694V7.72a.526.526,0,0,1-.526.526H5.264a.526.526,0,0,1-.526-.526V4.745L6.172,3.629a.526.526,0,0,1,.739.092Z" transform="translate(41.709 46.13) rotate(163)" fill="#f8d2a1"/>
+  </g>
+</svg>

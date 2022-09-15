@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.539" height="33" viewBox="0 0 30.539 33">
+  <g id="Dasboard_approved_" data-name="Dasboard ( approved)" transform="translate(-15.672 -17.439)">
+    <g id="Rectangle_2297" data-name="Rectangle 2297" transform="translate(15.672 17.439)" fill="none" stroke="#4caf50" stroke-width="2" opacity="0.5">
+      <rect width="25" height="30" rx="5" stroke="none"/>
+      <rect x="1" y="1" width="23" height="28" rx="4" fill="none"/>
+    </g>
+    <g id="Rectangle_2298" data-name="Rectangle 2298" transform="translate(19.672 22.439)" fill="#4caf50" stroke="#4caf50" stroke-width="1" opacity="0.5">
+      <rect width="17" height="2" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="1" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2299" data-name="Rectangle 2299" transform="translate(19.672 28.439)" fill="#4caf50" stroke="#4caf50" stroke-width="1" opacity="0.5">
+      <rect width="17" height="2" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="1" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2300" data-name="Rectangle 2300" transform="translate(19.672 33.439)" fill="#4caf50" stroke="#4caf50" stroke-width="1" opacity="0.5">
+      <rect width="11" height="2" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="10" height="1" rx="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_43" data-name="Ellipse 43" transform="translate(27.672 35.439)" fill="#f5faf5" stroke="#f5faf5" stroke-width="1">
+      <ellipse cx="8" cy="7.5" rx="8" ry="7.5" stroke="none"/>
+      <ellipse cx="8" cy="7.5" rx="7.5" ry="7" fill="none"/>
+    </g>
+    <path id="Path_163" data-name="Path 163" d="M6882.674,172.755l4.144,4.144,8.779-8.778" transform="translate(-6851.508 -131.633)" fill="none" stroke="#a0d6a1" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

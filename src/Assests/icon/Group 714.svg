@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59.771" height="54.162" viewBox="0 0 59.771 54.162">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00aae8;
+      }
+
+      .cls-2 {
+        fill: #404391;
+      }
+
+      .cls-3 {
+        fill: #914d98;
+      }
+    </style>
+  </defs>
+  <g id="Group_714" data-name="Group 714" transform="translate(-1276.229 -1338.5)">
+    <rect id="Rectangle_2290" data-name="Rectangle 2290" class="cls-1" width="17" height="52" rx="2" transform="translate(1276.229 1340.662)"/>
+    <path id="Rectangle_2290_-_Outline" data-name="Rectangle 2290 - Outline" class="cls-1" d="M2,1A1,1,0,0,0,1,2V50a1,1,0,0,0,1,1H15a1,1,0,0,0,1-1V2a1,1,0,0,0-1-1H2M2,0H15a2,2,0,0,1,2,2V50a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(1276.229 1340.662)"/>
+    <rect id="Rectangle_2291" data-name="Rectangle 2291" class="cls-2" width="17" height="52" rx="2" transform="translate(1293.229 1340.662)"/>
+    <path id="Rectangle_2291_-_Outline" data-name="Rectangle 2291 - Outline" class="cls-2" d="M2,1A1,1,0,0,0,1,2V50a1,1,0,0,0,1,1H15a1,1,0,0,0,1-1V2a1,1,0,0,0-1-1H2M2,0H15a2,2,0,0,1,2,2V50a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(1293.229 1340.662)"/>
+    <rect id="Rectangle_2292" data-name="Rectangle 2292" class="cls-3" width="17" height="52" rx="2" transform="matrix(0.985, -0.174, 0.174, 0.985, 1310.229, 1341.452)"/>
+    <path id="Rectangle_2292_-_Outline" data-name="Rectangle 2292 - Outline" class="cls-3" d="M2,1A1,1,0,0,0,1,2V50a1,1,0,0,0,1,1H15a1,1,0,0,0,1-1V2a1,1,0,0,0-1-1H2M2,0H15a2,2,0,0,1,2,2V50a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 1310.229, 1341.452)"/>
+  </g>
+</svg>

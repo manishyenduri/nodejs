@@ -1,0 +1,181 @@
+.igr-batch-id-index{
+    @include fullCenteredLayout;
+    // flex-direction: column ;
+    font-family: 'Muli';
+    .igr-batch-id-Index-layout{
+        @include Card93Percent;
+        .igr-batch-tab-Index-header{
+            height: 2.5rem;
+            display: flex;
+            align-items: center;
+            font-size: .9rem;
+            font-weight: bold;
+            border-bottom: 1px solid #8f8f8f29;
+            position: relative;
+            .igr-batch-tab{
+                height: 100%;
+                position: absolute;
+                display: flex;
+                align-items: center;
+                cursor: pointer;
+                .selected-tab{
+                    color:rgba(41, 40, 40, 0.8);
+                    height: 100%;
+                    display: flex;
+                    align-items: center;
+                    border-bottom: 2px solid #377D22;
+                    transition: all .2s ease-in-out;
+                }
+                .unselected-tab{
+                    color:rgba(0, 0, 0, 0.506);
+                    &:hover{
+                        color:rgba(41, 40, 40, 0.8);
+                        transition: all .2s ease-in-out;
+                    }
+                }
+            }
+        }
+        .igr-batch-id-all-documents-table{
+            width:95%;
+            margin-left: 2.5%;
+            .theader{
+                color:#000000;
+                font-size: .85rem;
+                font-weight: bold;
+                background-color: #377D221D;
+                height:2.5rem;
+                text-align: center;
+                td{width:20%}
+            }
+            .verifiedRow{
+                background-color: #fff;
+                color:#000000;
+                font-size: .8rem;
+                height:2.5rem;
+                font-weight: 600;
+                td{width:20%;}
+            }
+            .missingRow{
+                background-color: #DDEEFF;
+                color:#000000;
+                font-size: .8rem;
+                height:2.5rem;
+                font-weight: 600;
+                td{width:20%}
+            }
+            .mismatchedRow{
+                background-color: #FFB2B2;
+                color:#000000;
+                font-size: .8rem;
+                font-weight: 600;
+                height:2.5rem;
+                
+                td{width:30%}
+            }
+        }
+        .igr-batch-id-Idnex-header{
+            height: 2.5rem;
+            display: flex;
+            align-items: center;
+            color:rgba(41, 40, 40, 0.8);
+            font-size: .9rem;
+            font-weight: bold;
+            border-bottom: 1px solid #8f8f8f29;
+            img{
+                width:1.3rem;
+                margin-left:2rem;
+            }
+            
+
+        }
+        .batchId-info-row{
+            margin-left: 2.3rem;
+            margin-top: 1rem;
+            .batch-id-row1-title{
+                color:rgba(101, 101, 101, .8);
+                font-size: .8rem;
+                font-weight: 600;
+            }   
+            
+            .batch-id-row1-data{
+                @include igr-batch-id-index-header-mixin(rgba(55, 125, 34, .8));
+            }
+            .batch-id-row2-data{
+                @include igr-batch-id-index-header-mixin(rgba(246, 141, 136, .8));
+            }
+            .batch-id-row3-data{
+                @include igr-batch-id-index-header-mixin(rgba(73, 114, 149, 0.8));
+            }
+        }
+
+        .batch-id-dataLabel{
+            margin-top: 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            .batch-id-dataLabel-row1{
+                font-size: .7rem;
+                display: flex;
+                align-items: center;
+                font-weight: bold;
+                color:rgba(0, 0, 0,.8);
+                div:nth-child(1){
+                width:1.8rem;
+                height: 1.1rem;
+                border-radius: 3px;
+                background-color: rgba(191, 221, 166, .8);
+                }
+            } 
+            .batch-id-dataLabel-row2{
+                font-size: .7rem;
+                display: flex;
+                align-items: center;
+                font-weight: bold;
+                color:rgba(0, 0, 0,.8);
+                div:nth-child(1){
+                width:1.8rem;
+                height: 1.1rem;
+                border-radius: 3px;
+                background-color: rgba(73, 114, 149,.8);
+                }
+            }  
+            .batch-id-dataLabel-row3{
+                font-size: .7rem;
+                display: flex;
+                align-items: center;
+                font-weight: bold;
+                color:rgba(0, 0, 0,.8);
+                div:nth-child(1){
+                width:1.8rem;
+                height: 1.1rem;
+                border-radius: 3px;
+                background-color: rgba(246, 141, 136,.8);
+                }
+                
+
+                
+            }
+                
+        }
+
+        .grid-container-element { 
+            display: grid; 
+            grid-template-columns: 1fr 1fr; 
+            grid-gap: 20px;  
+            width: 100%; 
+            size: 20px;
+            margin-right: 100px;
+           
+        } 
+        .grid-child-element { 
+            margin: 35px; 
+            color:'green';
+            opacity: 1;
+            left: 898px;
+            width: 253px;
+         
+            opacity: 1;
+        }
+    }
+
+}

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59.771" height="54.162" viewBox="0 0 59.771 54.162">
+  <g id="Group_527" data-name="Group 527" transform="translate(-1380 -1170.838)">
+    <g id="Rectangle_2290" data-name="Rectangle 2290" transform="translate(1380 1173)" fill="#00aae8" stroke="#00aae8" stroke-width="1">
+      <rect width="17" height="52" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="51" rx="1.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2291" data-name="Rectangle 2291" transform="translate(1397 1173)" fill="#404391" stroke="#404391" stroke-width="1">
+      <rect width="17" height="52" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="51" rx="1.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2292" data-name="Rectangle 2292" transform="matrix(0.985, -0.174, 0.174, 0.985, 1414, 1173.79)" fill="#914d98" stroke="#914d98" stroke-width="1">
+      <rect width="17" height="52" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="51" rx="1.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2293" data-name="Rectangle 2293" transform="translate(1385 1179)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="7" height="23" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="6" height="22" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2294" data-name="Rectangle 2294" transform="translate(1402 1179)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="7" height="23" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="6" height="22" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2295" data-name="Rectangle 2295" transform="translate(1420.088 1179.596) rotate(-11)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="7" height="23" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="6" height="22" rx="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_40" data-name="Ellipse 40" transform="translate(1385 1206)" fill="#fff" stroke="#fff" stroke-width="1">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.5" fill="none"/>
+    </g>
+    <g id="Ellipse_41" data-name="Ellipse 41" transform="translate(1402 1206)" fill="#fff" stroke="#fff" stroke-width="1">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.5" fill="none"/>
+    </g>
+    <g id="Ellipse_42" data-name="Ellipse 42" transform="translate(1425.718 1206.074) rotate(-9)" fill="#fff" stroke="#fff" stroke-width="1">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.5" fill="none"/>
+    </g>
+  </g>
+</svg>

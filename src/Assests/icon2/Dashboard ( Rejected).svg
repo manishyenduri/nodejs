@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="34" viewBox="0 0 29 34">
+  <g id="Dashboard_Rejected_" data-name="Dashboard ( Rejected)" transform="translate(-14 -16.887)">
+    <g id="Rectangle_2297" data-name="Rectangle 2297" transform="translate(14 16.887)" fill="none" stroke="#f86666" stroke-width="2" opacity="0.5">
+      <rect width="26" height="31" rx="5" stroke="none"/>
+      <rect x="1" y="1" width="24" height="29" rx="4" fill="none"/>
+    </g>
+    <g id="Rectangle_2298" data-name="Rectangle 2298" transform="translate(19 22.887)" fill="#f86666" stroke="#f86666" stroke-width="1" opacity="0.5">
+      <rect width="17" height="2" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="1" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2299" data-name="Rectangle 2299" transform="translate(19 27.887)" fill="#f86666" stroke="#f86666" stroke-width="1" opacity="0.5">
+      <rect width="17" height="2" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="1" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2300" data-name="Rectangle 2300" transform="translate(19 33.887)" fill="#f86666" stroke="#f86666" stroke-width="1" opacity="0.5">
+      <rect width="12" height="2" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="11" height="1" rx="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_43" data-name="Ellipse 43" transform="translate(28 34.887)" fill="#fef6f6" stroke="#fef6f6" stroke-width="1">
+      <ellipse cx="7.5" cy="8" rx="7.5" ry="8" stroke="none"/>
+      <ellipse cx="7.5" cy="8" rx="7" ry="7.5" fill="none"/>
+    </g>
+    <path id="Icon_metro-cross" data-name="Icon metro-cross" d="M11.621,9.266h0L8.85,6.495l2.771-2.771h0a.286.286,0,0,0,0-.4L10.312,2.011a.286.286,0,0,0-.4,0h0L7.137,4.782,4.367,2.011h0a.286.286,0,0,0-.4,0L2.654,3.32a.286.286,0,0,0,0,.4h0L5.425,6.495,2.654,9.266h0a.286.286,0,0,0,0,.4l1.309,1.309a.286.286,0,0,0,.4,0h0L7.138,8.207l2.771,2.771h0a.286.286,0,0,0,.4,0l1.309-1.309a.286.286,0,0,0,0-.4Z" transform="translate(27.929 36.393)" fill="#faadad"/>
+  </g>
+</svg>

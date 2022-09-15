@@ -1,0 +1,415 @@
+@font-face {
+    font-family: muli;
+    src: url('../../Assests/font/muli.regular.ttf');
+}
+@font-face {
+    font-family: muliItalic;
+    src: url('../../Assests/font/muli.italic.ttf');
+}
+@font-face {
+    font-family: muliLight;
+    src: url('../../Assests/font/muli.light.ttf');
+}
+.dropbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+  
+.furIyG {
+    width: 20%;
+    position: relative;
+    font-family: "Open Sans", sans-serif;
+}
+#img4{
+    width:50px;
+}
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px){ 
+    #searching{
+        margin-top:10px;
+    }
+    #searchBar1{
+        width: 51%;
+        margin-left: 33%;
+        border: 2px solid #377D22;
+        height: 34px;
+        border-radius: 7px;
+        background-color: #dee2e6;
+    }
+    #rsndOtp{
+        margin-top:30px;
+        display: flex;
+    }
+    #rsndOtp a{
+        color:blue;
+    }
+    #OtpBox{
+        margin-left:-20px;
+    }
+    .login-layout .login-sub-layout .login-card {
+        width: 120%;
+        margin-left: -12px;
+        border-radius: 5px;
+        background-color: #fff;
+        box-shadow: 0px 3px 6px #00000029;
+        display: flex;
+        justify-content: center;
+    }
+    #text{
+        margin-left:9px;
+    }
+    #sideImg{
+        width:100%;
+    }
+    #searchbutton{
+        margin-left: 10px;
+        border: 2px solid #377D22;
+        background-color: #377D22;
+        border-radius: 5px;
+        height: 32px;
+        color: white
+    }
+    #searchBar{
+        width: 20%;
+        margin-left: 45%;
+        border: 2px solid #377D22;
+        height: 34px;
+        border-radius: 7px;
+        background-color: #dee2e6;
+    }
+    #searchBar{
+        width:20%;
+    }
+    #dogh{
+        
+    }
+    #img3{
+        width:50px;
+        margin-top: 3px;
+    }
+    #img4{
+        width:50px;
+        margin-top: -6px;
+    }
+    #textSize2{
+        font-size:15px;
+        margin-top: 20px;
+        font-weight:bold;
+    }
+    #batch{
+        width: 100%;
+    }
+    #doght{
+        margin-left: 20px;
+    }
+    #Doughnut{
+        width: 221px;
+        margin-left: 46px;
+        height: 95%;
+        box-shadow: rgb(0 0 0 / 16%) 0px 3px 6px;
+    }
+    #img2{
+        width:45px;
+        margin-top:-6spx;
+    }
+    #textSize1{
+        margin-top: 10px;
+    }
+    #button1{
+        width:26%;
+    }
+    #button2{
+        margin-left:42%;
+    }
+    #all{
+        height:500px;
+    }
+    #blockChain{
+        width:98%;
+    }
+    #imgSize{
+        width:95%;
+        height:400;
+    }
+    #textSize{
+        font-size: 12px;
+        width: 84%;
+        margin-left: 71px
+    }
+    #logoIcon{
+        width:30%;
+        display:flex;
+        margin-left: 20px;
+        
+    }
+    #logoName{
+        margin-top:10px;
+        font-family: 'muli';
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    .sideLogin{
+        background-color: white;
+        padding: 35px;
+        border-radius: 10px;
+        box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+        width:116%;
+    }
+    #inputBox{
+        border: none;
+        padding: 7px;
+        border-radius: 5px;
+        width: 90%;
+    }
+    #Login{
+        margin-left: 65%;
+        background-color: #2D6C1A;
+        border: none;
+        padding: 5px 15px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+    }
+    #label{
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-device-width: 1025px) and (max-device-width: 1200px){ 
+    #searching{
+        margin-top:10px;
+    }
+    #searchBar1{
+        width: 51%;
+        margin-left: 33%;
+        border: 2px solid #377D22;
+        height: 34px;
+        border-radius: 7px;
+        background-color: #dee2e6;
+    }
+    #rsndOtp{
+        margin-top:30px;
+        display: flex;
+    }
+    #rsndOtp a{
+        color:blue;
+    }
+    .login-layout .login-sub-layout .login-card {
+        width: 113%;
+        margin-left: -53px;
+        border-radius: 5px;
+        background-color: #fff;
+        box-shadow: 0px 3px 6px #00000029;
+        display: flex;
+        justify-content: center;
+    }
+    #searchbutton{
+        margin-left: 10px;
+        border: 2px solid #377D22;
+        background-color: #377D22;
+        border-radius: 5px;
+        height: 32px;
+        color: white
+    }
+    #searchBar{
+        width: 20%;
+        margin-left: 49%;
+        border: 2px solid #377D22;
+        height: 34px;
+        border-radius: 7px;
+        background-color: #dee2e6;
+    }s
+    #img3{
+        width:50px;
+        margin-top: 3px;
+    }
+    #textSize2{
+        font-size:14px;
+        margin-top: 20px;
+        font-weight:bold;
+    }
+    #logoName{
+        margin-top:10px;
+        font-family: 'muli';
+        font-weight: bold;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    #button2{
+        margin-left:50%;
+    }
+    #img2{
+        width:45px;
+        margin-top:-6spx;
+    }
+    #img1{
+        width:25%;
+    }
+    #blockChain{
+        width:90%;
+    }
+    #all{
+        height:500px;
+    }
+    #imgSize{
+        width:95%
+    }
+    #textSize{
+        font-size: 16px;
+    }
+    #textSize1{
+        font-size: 14px;
+        margin-top:10px;
+        font-weight:bold;
+    }
+    .sideLogin{
+        background-color: white;
+        padding: 35px;
+        border-radius: 10px;
+        box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+        width:100%;
+    }
+    #inputBox{
+        border: none;
+        padding: 7px;
+        border-radius: 5px;
+        width: 90%;
+    }
+    #Login{
+        margin-left: 69%;
+        background-color: #2D6C1A;
+        border: none;
+        padding: 5px 15px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+    }
+}
+
+@media screen and (min-device-width: 1201px) { 
+    #searching{
+        margin-top:10px;
+    }
+    #rsndOtp{
+        margin-top:30px;
+        display: flex;
+    }
+    #rsndOtp a{
+        color:blue;
+    }
+    #searchbutton{
+        margin-left: 10px;
+        border: 2px solid #377D22;
+        background-color: #377D22;
+        border-radius: 5px;
+        height: 32px;
+        color: white
+    }
+    #searchBar{
+        width: 36%;
+        margin-left: 46%;
+        border: 2px solid #377D22;
+        height: 34px;
+        border-radius: 7px;
+        background-color: #dee2e6;
+    }
+    #searchBar1{
+        width: 51%;
+        margin-left: 33%;
+        border: 2px solid #377D22;
+        height: 34px;
+        border-radius: 7px;
+        background-color: #dee2e6;
+    }
+    #logoName{
+        margin-top:10px;
+        font-family: 'muli';
+        font-weight: bold;
+        margin-top: 10px;
+        font-size: 16px;
+    }
+    #img1{
+        width:14%;
+        margin-left:20px;
+    }
+    #img2{
+        width:45px;
+        margin-top:-6spx;
+    }
+    #button2{
+        margin-left:65%;
+    }
+    #imgSize{
+        width:95%
+    }
+    #textSize{
+        font-size: 18px;
+    }
+    .sideLogin{
+        background-color: white;
+        padding: 35px;
+        border-radius: 10px;
+        box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+        width:80%;
+        margin-left:15%;
+    }
+    #inputBox{
+        border: none;
+        padding: 7px;
+        border-radius: 5px;
+        width: 90%;
+    }
+    #Login{
+        margin-left: 70%;
+        background-color: #2D6C1A;
+        border: none;
+        padding: 5px 15px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+    }
+    #textSize1{
+        font-size:18px;
+        margin-top: 10px;
+        font-weight:bold;
+    }
+    #textSize2{
+        font-size:14px;
+        margin-top: 20px;
+        font-weight:bold;
+    }
+    #img3{
+        width:50px;
+        margin-top:4px;
+    }
+}

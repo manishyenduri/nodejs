@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <g id="Group_902" data-name="Group 902" transform="translate(-674 -311)">
+    <g id="Rectangle_2209" data-name="Rectangle 2209" transform="translate(674 311)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="75" height="75" stroke="none"/>
+      <rect x="0.5" y="0.5" width="74" height="74" fill="none"/>
+    </g>
+    <g id="Rectangle_2297" data-name="Rectangle 2297" transform="translate(694 334)" fill="none" stroke="#58c8d9" stroke-width="2" opacity="0.93">
+      <rect width="34" height="37" rx="5" stroke="none"/>
+      <rect x="1" y="1" width="32" height="35" rx="4" fill="none"/>
+    </g>
+    <g id="Ellipse_43" data-name="Ellipse 43" transform="translate(701 326)" fill="#e4fafe" stroke="#e4fafe" stroke-width="1">
+      <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+      <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+    </g>
+    <path id="Icon_ionic-ios-arrow-round-up" data-name="Icon ionic-ios-arrow-round-up" d="M24.489,20.791a.919.919,0,0,0-1.294-.007l-4.282,4.268V8.789a.914.914,0,0,0-1.828,0V25.052L12.8,20.777a.925.925,0,0,0-1.294.007.91.91,0,0,0,.007,1.287l5.836,5.794h0a1.026,1.026,0,0,0,.288.19.872.872,0,0,0,.352.07.916.916,0,0,0,.64-.26l5.836-5.794A.9.9,0,0,0,24.489,20.791Z" transform="translate(693.002 320.375)" fill="#58c8d9"/>
+  </g>
+</svg>

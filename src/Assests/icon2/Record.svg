@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="30" viewBox="0 0 32 30">
+  <g id="Record" transform="translate(-394 -190)">
+    <g id="Rectangle_2244" data-name="Rectangle 2244" transform="translate(394 190)" fill="#fff" stroke="#a7a7a7" stroke-width="1">
+      <rect width="32" height="30" rx="6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="29" rx="5.5" fill="none"/>
+    </g>
+    <g id="noun_Cross_3905861" transform="translate(1543.424 1750)">
+      <g id="Group_505" data-name="Group 505" transform="translate(-1138.875 -1554)">
+        <path id="Path_97" data-name="Path 97" d="M7.576,2c-7.267.23-7.269,10.769,0,11C14.843,12.77,14.844,2.231,7.576,2ZM9.8,9.167c.366.355-.2.921-.556.556L7.576,8.056,5.909,9.722c-.355.366-.921-.2-.556-.556L7.02,7.5,5.354,5.833c-.366-.355.2-.921.556-.555L7.576,6.944,9.243,5.278c.355-.366.921.2.556.555L8.131,7.5Z" transform="translate(-2.125 -2)" fill="#9a9a9a"/>
+      </g>
+    </g>
+    <line id="Line_177" data-name="Line 177" x2="19" transform="translate(400.5 210.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_178" data-name="Line 178" x2="14" transform="translate(403 213)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
